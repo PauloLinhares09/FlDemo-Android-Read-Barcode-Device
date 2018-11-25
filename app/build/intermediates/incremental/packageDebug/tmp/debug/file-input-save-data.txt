@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun Nov 25 14:49:40 BRST 2018
+1.base=/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/transforms/mergeJniLibs/debug/0
+2.path=lib/x86/libserial_port.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/transforms/mergeJniLibs/debug/0
+3.set=NATIVE_RESOURCE
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=lib/armeabi-v7a/libserial_port.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+3.base=/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/transforms/mergeJniLibs/debug/0
+0.set=DEX
+0.base=/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=lib/armeabi/libserial_port.so

@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "11,10,9,8,12,4,3,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "577,535,484,435,621,100,56,147,236,336",
+                        "endColumns": "43,41,50,48,48,46,43,88,99,98",
+                        "endOffsets": "616,572,530,479,665,142,95,231,331,430"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,213,255,306,355,404,451,495,584,684",
+                        "endColumns": "43,41,50,48,48,46,43,88,99,98",
+                        "endOffsets": "208,250,301,350,399,446,490,579,679,778"
+                    }
+                },
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "783,1074",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1069,1229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "11,10,9,8,12,4,3,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "562,522,477,433,603,98,56,145,234,334",
+                        "endColumns": "40,39,44,43,43,46,41,88,99,98",
+                        "endOffsets": "598,557,517,472,642,140,93,229,329,428"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,136,181,225,269,316,358,447,547",
+                        "endColumns": "40,39,44,43,43,46,41,88,99,98",
+                        "endOffsets": "91,131,176,220,264,311,353,442,542,641"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

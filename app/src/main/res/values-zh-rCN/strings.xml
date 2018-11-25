@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">低频示例</string>
+    <string name="action_settings">设置</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serialport.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown reason.</string>
+    <string name="TXT_POWER_ON">上电</string>
+    <string name="TXT_POWER_OFF">下电</string>
+    <string name="TXT_OPEN">打开</string>
+    <string name="TXT_CLOSE">关闭</string>
+    <string name="TXT_RECORD">卡号显示</string>
+    
+
+</resources>

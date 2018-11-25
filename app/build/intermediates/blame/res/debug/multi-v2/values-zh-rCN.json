@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/paulolinhares/Downloads/GZPDA01 Android SDK/RFID_125K/LFDemo_GZPDA01_V1.11/app/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "11,10,9,8,12,4,3,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "562,522,477,433,603,98,56,145,234,334",
+                        "endColumns": "40,39,44,43,43,46,41,88,99,98",
+                        "endOffsets": "598,557,517,472,642,140,93,229,329,428"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,136,181,225,269,316,358,447,547",
+                        "endColumns": "40,39,44,43,43,46,41,88,99,98",
+                        "endOffsets": "91,131,176,220,264,311,353,442,542,641"
+                    }
+                }
+            ]
+        }
+    ]
+}
